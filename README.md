@@ -1,2 +1,2 @@
 # DoggieSays
-A React-native IOS application to upload doggy videos, give personal dubs, make thumbs and comments.
+A React-native IOS application to upload doggie videos, give personal dubs, click to like and comment.
